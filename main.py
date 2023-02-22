@@ -7,3 +7,11 @@ def topla(x,y):
 def cikarma(x,y):
     return x-y
 
+# carpma fonksiyonu
+def carp(x,y):
+    return x*y
+
+def bolm(x,y):
+    return x/y
+
+
